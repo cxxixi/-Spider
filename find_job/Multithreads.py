@@ -39,5 +39,3 @@ def test():
   
 if __name__ == '__main__':  
     test()  
-
-#execfile('D:\my_documents\python\scrape\\find_job\\trial.py')
