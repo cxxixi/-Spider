@@ -44,5 +44,3 @@ def Checkout_ip(ip):
 		tag = False
 		ip = None
 	return tag,ip
-
-#execfile('D:\my_documents\python\scrape\IPsPool\\IPspider.py')
