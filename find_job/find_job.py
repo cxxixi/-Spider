@@ -63,5 +63,3 @@ def test():
 
 set_params()
 test()
-
-#execfile('D:\my_documents\python\scrape\\find_job\\find_job.py')
