@@ -130,20 +130,4 @@ city_list = scrape_city()
 scrape_links(city_list)
 #
 
-#execfile('D:\my_documents\python\scrape\\find_job\meteorology\\meteorological_companies.py')
-
-
-
-		# request = Request(url,headers=headers_list[random_num])
-		# response = urlopen(request).read()
-		# data = {'url':'/search?key=%E6%B0%94%E8%B1%A1','searchType':'scope'}
-		#
-		# print 
-		# obj  = driver.find_element_by_class_name('search_result_single search-2017 pb15 ng-scope')
-		
-		# driver.get('http://www.tianyancha.com/search/p'+str(i)+'?key=%E6%B0%94%E8%B1%A1&searchType=scope')
-		# print soup
-		# file = open('C:\Users\\think\Desktop\\meteo_comps.txt','wb')
-		# file.write(soup)
-		# soup = BeautifulSoup(response,'html')
 
